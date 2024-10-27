@@ -1,0 +1,10 @@
+requests
+schedule
+pymongo
+numpy
+PyQt6==6.6.0
+PyQt6-Charts==6.6.0
+PyQt6-Charts-Qt6==6.6.0
+PyQt6-Qt6==6.6.0
+qt6-applications==6.4.3.2.3
+qt6-tools==6.4.3.1.3
