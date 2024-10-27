@@ -56,11 +56,11 @@ PyQt6 is used to create UI, to run web app:
 
 - The below images shows the wheather updates for various cities:
 
-![](/README_images/img_1_Delhi.PNG)
+<kbd>![](/README_images/img_1_Delhi.PNG)</kbd>
 
-![](/README_images/img_2_Mumbai.PNG)
+<kbd>![](/README_images/img_2_Mumbai.PNG)</kbd>
 
-![](/README_images/img_3_Bengaluru.PNG)
+<kbd>![](/README_images/img_3_Bengaluru.PNG)</kbd>
 
 #### Rollups and Aggregates
 
@@ -76,9 +76,9 @@ PyQt6 is used to create UI, to run web app:
 
 - The images below show how the user sets up the threshold value, and an alert is triggered when the threshold is reached.
 
-![](/README_images/img_4_threshold.PNG)
+<kbd>![](/README_images/img_4_threshold.PNG)</kbd>
 
-![](/README_images/img_5_alert.PNG)
+<kbd>![](/README_images/img_5_alert.PNG)</kbd>
 
 #### Visualizations
 
